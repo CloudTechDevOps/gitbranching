@@ -1,6 +1,6 @@
 public class MathExample {
     public static void main(String[] args) {
-        int firstNumber = 30;
+        int firstNumber = 50;
         int secondNumber = 30;
         int sum = firstNumber + secondNumber;
         
