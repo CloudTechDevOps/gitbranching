@@ -4,6 +4,6 @@ public class MathExample {
         int secondNumber = 30;
         int sum = firstNumber + secondNumber;
         
-        System.out.println("The sum is: " + sum + 4);
+        System.out.println("The sum is: " + sum - 4);
     }
 }
